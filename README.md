@@ -1,7 +1,7 @@
 # GitHub Actions Fundamentals
 
 Repo for the `GitHub Actions Fundamentals` training.
-MLY edititerar igen
+MLY edititerar igen No 3
 ## 👉 Objectives
 
 - Understand the __basic components__ and vocabulary of GitHub Actions
