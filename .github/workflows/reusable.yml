@@ -1,6 +1,6 @@
 name: Reusable workflow
 
-on: 
+on:
   workflow_call:
     inputs:
       who-to-greet:
@@ -24,7 +24,6 @@ jobs:
       - name: Set time
         id: time
         run: echo "time=$(date)" >> $GITHUB_OUTPUT
-
          
       
 
